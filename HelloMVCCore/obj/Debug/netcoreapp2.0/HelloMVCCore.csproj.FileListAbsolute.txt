@@ -1,0 +1,11 @@
+D:\Projects\HelloMVCCore\HelloMVCCore\bin\Debug\netcoreapp2.0\HelloMVCCore.deps.json
+D:\Projects\HelloMVCCore\HelloMVCCore\bin\Debug\netcoreapp2.0\HelloMVCCore.runtimeconfig.json
+D:\Projects\HelloMVCCore\HelloMVCCore\bin\Debug\netcoreapp2.0\HelloMVCCore.runtimeconfig.dev.json
+D:\Projects\HelloMVCCore\HelloMVCCore\bin\Debug\netcoreapp2.0\HelloMVCCore.dll
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.csproj.CoreCompileInputs.cache
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.AssemblyInfoInputs.cache
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.AssemblyInfo.cs
+D:\Projects\HelloMVCCore\HelloMVCCore\bin\Debug\netcoreapp2.0\HelloMVCCore.pdb
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.csprojResolveAssemblyReference.cache
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.dll
+D:\Projects\HelloMVCCore\HelloMVCCore\obj\Debug\netcoreapp2.0\HelloMVCCore.pdb
